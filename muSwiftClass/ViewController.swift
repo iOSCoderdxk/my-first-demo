@@ -101,7 +101,7 @@ class ViewController: UIViewController {
          
          */
         
-        
+        //今天是2016年9月23日 天气晴朗
     }
 
     override func didReceiveMemoryWarning() {

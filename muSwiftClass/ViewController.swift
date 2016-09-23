@@ -94,9 +94,12 @@ class ViewController: UIViewController {
             print(num)
         }
         
+<<<<<<< HEAD
         let niuni = 12;
         print(niuni)
         
+=======
+>>>>>>> master
         /*
          *  小丁的23日的测试
          */

@@ -94,6 +94,8 @@ class ViewController: UIViewController {
             print(num)
         }
         
+        let niuni = 12;
+        print(niuni)
         
         /*
          *  小丁的23日的测试

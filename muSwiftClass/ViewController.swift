@@ -94,7 +94,8 @@ class ViewController: UIViewController {
             print(num)
         }
         
-        
+        let haha = "就是这样子";
+        print(haha)
         /*
          *  小丁的23日的测试
          */
